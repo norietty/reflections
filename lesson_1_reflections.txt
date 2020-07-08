@@ -1,0 +1,20 @@
+When I used the diff command to view the difrences  between the two version
+it simplifie  finding errors.
+
+Knowing the history of your work will improve your design choices in the future and
+help you avoid past mistakes.
+
+Having to save manuelly versions of your work is good because you have more control 
+on versions you want to be saved, and give a better understanding of how the application is
+built, but could be dangerous if you forgot to commit your work.
+
+For Git it's crucial to track all changes in all files in a repo because most of
+apps have multiple file so change in one file might effect incur changes in other
+files. As for app like google docs file are mostly unrelated and  can be tracked sapretly
+
+You can use git log to view all the previous commit you made and have an idea
+at what they were about, also you can use git diff to view the changes between
+two commits stats of how many changes were made.
+
+using versions control gives you the ability  to revert back to older versions of your work to see
+what changes break your code so you can fix it easily.
