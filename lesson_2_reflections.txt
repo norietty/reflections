@@ -1,0 +1,7 @@
+when you first create a repository  hidden file are created for you by git 
+these file will be used to track changes in the repository if you don't init 
+a repo git will not be able to track these changes.
+
+The staging area is different  from the repo because it's keep track of the changes 
+you want to make to the repo and gives more control on how the changes  to be made to the repo
+. it differ from the working directory because it's not permanent.
