@@ -3,3 +3,7 @@ or show your work to other people
 
 you might want to manually pull changes to have more control on what changes are added to your 
 local repository especially  if you're collaborating with other people online. 
+
+Clone give a copy of the repository and can be done in github or locally, as for clone it's done only
+on github and it's for having a repo you can change and let other people make changes to it.As for branches 
+it acte on the same repository and it's for testing or experimenting with new features. 
