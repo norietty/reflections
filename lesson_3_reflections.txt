@@ -1,0 +1,2 @@
+You want to use a remote respotiry if you want to colaborate with others on a poroject  or you want to store a version of your work remotly 
+or show your work to other people 
