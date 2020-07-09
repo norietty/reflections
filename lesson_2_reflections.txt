@@ -5,3 +5,17 @@ a repo git will not be able to track these changes.
 The staging area is different  from the repo because it's keep track of the changes 
 you want to make to the repo and gives more control on how the changes  to be made to the repo
 . it differ from the working directory because it's not permanent.
+
+In the staging area we add the changes we want to make to the repo the staging area help 
+us track the changes we anat to make and separate these changes.
+
+Branching help test new feature and ideas without messing up working version of the code which 
+can be useful, also you can test other version of your app.
+
+Diagram help visualize the branches by showing what commits are in each branch
+and when the branching happened 
+
+The result of merging two branches is a new branch contains new commits from the two branches 
+, and we represents it in diagram so we can easily find in which branch commits are made and how 
+these changes came about.
+
