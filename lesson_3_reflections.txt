@@ -10,3 +10,7 @@ it acts on the same repository and it's for testing or experimenting with new fe
 
 One benefit of having the latest copy of the remote is being up to date with the latest changes in the remote.
 other benefits include having the latest changes in case the services goes down for some reason 
+
+I think collaborating with git and github make collaboration is for people without them it'll  be 
+much harder. I think sharing file will be difficult and also reviewing code and other things it's hard to think 
+of something will be easy without git and github other then not having to learn them.
