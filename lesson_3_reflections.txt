@@ -6,4 +6,7 @@ local repository especially  if you're collaborating with other people online.
 
 Clone give a copy of the repository and can be done in github or locally, as for clone it's done only
 on github and it's for having a repo you can change and let other people make changes to it.As for branches 
-it acte on the same repository and it's for testing or experimenting with new features. 
+it acts on the same repository and it's for testing or experimenting with new features. 
+
+One benefit of having the latest copy of the remote is being up to date with the latest changes in the remote.
+other benefits include having the latest changes in case the services goes down for some reason 
