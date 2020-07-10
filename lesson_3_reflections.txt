@@ -14,3 +14,7 @@ other benefits include having the latest changes in case the services goes down 
 I think collaborating with git and github make collaboration is for people without them it'll  be 
 much harder. I think sharing file will be difficult and also reviewing code and other things it's hard to think 
 of something will be easy without git and github other then not having to learn them.
+
+I think making new branches for changes make a lot secure to trie new things and new ideas and make sure 
+that the master stays safe from possibilities of corruption but it gets heavy with a lot of merging and 
+creating new branches so definitely will be slower then working directly on the master branch.
